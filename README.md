@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Biroj+lal+shrestha!;" />
+</h1>
+
 # 💫 About Me:
 Hi, it's Biroz Shrestha here!<br>I studied Computer Science during my +2 at NCCS and <br>am currently in my 8th semester at NCCS, pursuing my Bachelor's degree.<br><br>I'm an intern at Mata Technology Company, where I'm sharpening my skills and gaining hands-on experience in software development.<br><br>🌟 My Goals<br>I'm passionate about becoming a Backend Developer, with a current focus on mastering PHP. <br>In the future, I aim to explore and learn other valuable tools and technologies to enhance my skill set further.
 
