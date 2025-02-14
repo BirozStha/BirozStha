@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=80&center=true&vCenter=true&width=1000&height=250&duration=4000&lines=Hello+and+Welcome!+👋;+I'M+BIROJ+LAL+SHRESTHA!;&color=FFFDD0" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=80&center=true&vCenter=true&width=1000&height=250&duration=4000&lines=Hello+and+Welcome!+👋;+I'M+BIROJ+LAL+SHRESTHA!;&color=00008B" />
 </h1>
 
 # 💫 About Me:
