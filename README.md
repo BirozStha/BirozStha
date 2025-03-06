@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=80&center=true&vCenter=true&width=1000&height=250&duration=4000&lines=Hello+and+Welcome!+👋;+I'M+BIROJ+LAL+SHRESTHA!;&color=00008B" />
 </p>
 
+<p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="400"/>
+</p>
+
 # 💫 About Me:
 Hi, it's Biroz Shrestha here!<br>I studied Computer Science during my +2 at NCCS and <br>am currently in my 8th semester at NCCS, pursuing my Bachelor's degree.<br><br>I'm an intern at Mata Technology Company, where I'm sharpening my skills and gaining hands-on experience in software development.<br><br>🌟 My Goals<br>I'm passionate about becoming a Backend Developer, with a current focus on mastering PHP. <br>In the future, I aim to explore and learn other valuable tools and technologies to enhance my skill set further.
 
