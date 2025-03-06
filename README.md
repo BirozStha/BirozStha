@@ -24,6 +24,7 @@ Hi, it's Biroz Shrestha here!<br>I studied Computer Science during my +2 at NCCS
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BirozStha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BirozStha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BirozStha&theme=dark&hide_border=false&hide_longest_streak=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BirozStha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
