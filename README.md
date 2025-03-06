@@ -1,6 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=80&center=true&vCenter=true&width=1000&height=250&duration=4000&lines=Hello+and+Welcome!+👋;+I'M+BIROJ+LAL+SHRESTHA!;&color=00008B" />
+    🚀 Welcome to My GitHub Profile! 🚀
 </h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=80&center=true&vCenter=true&width=1000&height=250&duration=4000&lines=Hello+and+Welcome!+👋;+I'M+BIROJ+LAL+SHRESTHA!;&color=00008B" />
+</p>
 
 # 💫 About Me:
 Hi, it's Biroz Shrestha here!<br>I studied Computer Science during my +2 at NCCS and <br>am currently in my 8th semester at NCCS, pursuing my Bachelor's degree.<br><br>I'm an intern at Mata Technology Company, where I'm sharpening my skills and gaining hands-on experience in software development.<br><br>🌟 My Goals<br>I'm passionate about becoming a Backend Developer, with a current focus on mastering PHP. <br>In the future, I aim to explore and learn other valuable tools and technologies to enhance my skill set further.
@@ -30,6 +34,7 @@ Hi, it's Biroz Shrestha here!<br>I studied Computer Science during my +2 at NCCS
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BirozStha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BirozStha&theme=onedark&no-frame=true) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=BirozStha&icon=0&color=0)](https://visitcount.itsvg.in)
 
